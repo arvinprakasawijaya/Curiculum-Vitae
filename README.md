@@ -3,3 +3,4 @@
 </p>
 
 # Curiculum-Vitae 
+Ini adalah CV saya, seorang Fresh Graduate SMKN 4 Bandung jurusan Teknik Elektronika Audio Video. Fresh Graduate 2024
